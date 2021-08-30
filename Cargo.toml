@@ -1,0 +1,7 @@
+[package]
+name = "crc32"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+crc32fast = "1.2.1"
